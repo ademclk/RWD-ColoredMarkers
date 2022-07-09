@@ -14,6 +14,13 @@ h1 {
     margin: 10px auto;
 }
 
+.sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: white;
+    opacity: 0.5;
+}
+
 /*Degree default 180 and color stops are automatically calculated by the linear gradient function.*/
 .red {
     background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27 ,27)); /* Hex value : ff0000 */
